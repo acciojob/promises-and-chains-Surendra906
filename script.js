@@ -27,3 +27,4 @@ votingpromise.then((message)=>{
 }).catch((error)=>{
 	alert(error);
 });
+});
